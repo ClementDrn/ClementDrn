@@ -1,6 +1,6 @@
 - 👋 Hi, I’m an IT student.
 - 👀 I’m interested in every computer science topic.
-- 🌱 I’m currently learning `C++`, `JavaScript` & `React Native`
+- 🌱 I’m currently learning `C++`, `Java`, `JavaScript` & `React Native`
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
