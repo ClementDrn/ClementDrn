@@ -1,10 +1,4 @@
 - 👋 Hi, I’m an IT student.
 - 👀 I’m interested in every computer science topic.
-- 🌱 I’m currently learning `C++`, `Java`, `JavaScript` & `React Native`
-<!---- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
-
-<!---
-ClementDrn/ClementDrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning `Electron`, `AWS` & `JavaScript`.
+- 📫 You can reach me by email: [cledarne@gmail.com](mailto:cledarne@gmail.com).
