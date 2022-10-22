@@ -1,8 +1,8 @@
 # Hi👋
 
-- 🎓 I’m an IT student in Quebec (Canada).
+- 🎓 I’m an IT student at Ensimag (France).
 - 👀 I’m interested in every computer science topic but mostly AI & game engines.
-- 🌱 I’m currently learning `C#` and `Unity`.
+<!-- 🌱 I’m currently learning ``. --->
 - 📫 You can reach me by email: [cledarne@gmail.com](mailto:cledarne@gmail.com).
 
 # Statistics
